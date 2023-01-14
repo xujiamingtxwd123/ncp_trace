@@ -1,0 +1,4 @@
+.DS_Store
+blockchain-trace-pc/dist
+blockchain-trace-pc/node_modules/
+blockchain-trace-basic-data/.idea
