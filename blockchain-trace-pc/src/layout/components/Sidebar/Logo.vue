@@ -27,7 +27,7 @@ export default {
   data() {
     return {
       title: '农产品溯源系统',
-      // logo: logoImg
+      logo: logoImg
     }
   }
 }

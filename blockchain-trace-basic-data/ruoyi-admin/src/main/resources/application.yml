@@ -129,9 +129,7 @@ xss:
   urlPatterns: /traces/*,/system/*,/monitor/*,/tool/*,
 
 trace:
-  basePath: /Users/xujiaming/project/myproject/25_ncp_trace/lightweight-deploy/target/deploy-subject-remote-4peer/
-# D:/Source/MyProject/20ncp/kuajingmaoyi/blockchain-trace-basic-data/crypto/
-#  basePath: /Users/xujiaming/project/myproject/ncp_trace/lightweight-deploy/target/deploy-subject-remote-4peer/
+  basePath: /Users/xxx/project/goproject/src/fabricgosdktest/
 
 
 

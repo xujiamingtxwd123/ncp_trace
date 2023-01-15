@@ -45,22 +45,7 @@
           <span v-else>登 录 中...</span>
         </el-button>
       </el-form-item>
-	  <!-- <el-form-item style="width:100%;">
-	    <el-button
-	      :loading="loading"
-	      size="medium"
-	      type="success"
-	      style="width:100%;"
-	      @click.native.prevent="roTrace"
-	    >
-		<span >消费者溯源</span>
-	    </el-button>
-	  </el-form-item> -->
     </el-form>
-    <!--  底部  -->
-   <!-- <div class="el-login-footer">
-      <span>Copyright © 2018-2020 ruoyi.vip All Rights Reserved.</span>
-    </div> -->
 	
 	<el-dialog
 	  title="农产品溯源"

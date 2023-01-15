@@ -48,34 +48,7 @@ export default {
     };
   },
   created() {
-    var role1 = this.$store.getters.roles[0];
-    switch (role1) {
-      case "zhongzhihu":
-        this.hello = '欢迎您！农场操作员'
-        break;
-      case "driver":
-         this.hello = '欢迎您！运输员'
-        break;
-      case "regulator":
-        this.hello = '监管'
-        break;
-      case "consumer":
-         this.hello = '消费者'
-        break;
-      case "material":
-         this.hello = '欢迎您！质检员'
-        break;
-      case "factoryLeader":
-         this.hello = '欢迎您！加工操作员'
-        break;
-      case "retailer":
-         this.hello = '欢迎您！销售员'
-        break;
-      case "admin":
-          this.hello = '欢迎您！管理员'
-          break;
-    }
-    
+    this.hello = '欢迎测试农产品溯源系统'  
   },
   methods: {
     handleSetLineChartData(type) {
